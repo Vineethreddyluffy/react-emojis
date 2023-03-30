@@ -1,0 +1,21 @@
+/* Write your code here. */
+.image1 {
+  height: 60px;
+  width: 60px;
+}
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border: solid 1px #ffffff;
+  background-color: #ffffff33;
+  padding: 30px;
+  margin: 10px;
+}
+.card-button {
+  background-color: transparent;
+  border-width: 0px;
+  outline: none;
+}

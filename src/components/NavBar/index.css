@@ -1,0 +1,23 @@
+.nav-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-image-cont {
+  display: flex;
+  align-items: center;
+}
+.nav-para {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-right: 20px;
+}
